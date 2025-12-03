@@ -9,7 +9,7 @@ This section provide a short explanation about the key components of DAX.
 Total Sales =
     SUM ( 'Sales Data 2022'[Revenue] )
 ```
-
+ 
 **With VAR/RETURN**
 ```DAX
 Total Sales =
